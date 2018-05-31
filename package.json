@@ -1,11 +1,12 @@
 {
   "name": "remindmee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remind yourself about short little but important daily life chores.",
   "main": "index.js",
   "bin": "index.js",
-  "scripts": {},
+  "scripts": {
     "start": "nohup node index.js"
+  },
   "keywords": [
     "osx-notifier",
     "reminder",

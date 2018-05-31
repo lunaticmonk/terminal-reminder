@@ -16,6 +16,9 @@ remindmee <task> <time_in_minutes> &
 
 ```
 
+![gif](./terminal.gif)
+![image](./notification.png)
+
 example,
 
 ```
