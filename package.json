@@ -5,6 +5,7 @@
   "main": "index.js",
   "bin": "index.js",
   "scripts": {},
+    "start": "nohup node index.js"
   "keywords": [
     "osx-notifier",
     "reminder",
