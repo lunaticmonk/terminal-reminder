@@ -1,0 +1,23 @@
+{
+  "name": "remindmee",
+  "version": "1.0.0",
+  "description": "Remind yourself about short little but important daily life chores.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {},
+  "keywords": [
+    "osx-notifier",
+    "reminder",
+    "remind short time",
+    "notification"
+  ],
+  "author": "lunaticmonk(Sumedh Nimkarde) <blesssumedh@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^5.2.1",
+    "notifier": "^0.1.7",
+    "osx-notifier": "^0.2.2",
+    "remindme": "0.0.1"
+  },
+  "preferGlobal": true
+}
