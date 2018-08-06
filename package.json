@@ -16,10 +16,7 @@
   "author": "lunaticmonk(Sumedh Nimkarde) <blesssumedh@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "node-notifier": "^5.2.1",
-    "notifier": "^0.1.7",
-    "osx-notifier": "^0.2.2",
-    "remindme": "0.0.1"
+    "node-notifier": "^5.2.1"
   },
   "preferGlobal": true
 }
